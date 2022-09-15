@@ -1,0 +1,3 @@
+2
+<http://has_function> 0
+<http://interacts_with> 1
